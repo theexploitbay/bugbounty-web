@@ -7,7 +7,10 @@
 
 
 
-Vulnerabilities:
+
+Source code vulnerabilities - Brandon Roldan, includes gihub dorking
+
+Vulnerabilities: DYnamic
 
 1. Scraping api,keys, secrets, passwords, etc from UI
 2. Subdomain takeover
