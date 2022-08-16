@@ -6,11 +6,16 @@
 4. Post Exploitation - Privilege Escalation / Persistence
 
 
-
+--------------------------------------------------------------------
+Web Development
 
 Source code vulnerabilities - Brandon Roldan, includes gihub dorking
 
-Vulnerabilities: DYnamic
+Gitlab bug hunting
+
+Automated bug scan workflows
+
+Vulnerabilities: Dynamic
 
 1. Scraping api,keys, secrets, passwords, etc from UI
 2. Subdomain takeover
@@ -22,3 +27,7 @@ Vulnerabilities: DYnamic
 8. Dependency RCE
 9. Info disclosure on Way back engine cached files
 10. Default password access of third party platforms
+
+
+
+Automated reporting templates
